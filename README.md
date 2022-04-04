@@ -24,5 +24,5 @@ src="https://avatars.githubusercontent.com/u/21957446?v=4" alt="Pytorch logo" wi
 src="https://github.com/scikit-image/skimage-branding/blob/main/logo/green_orange_snake.png" alt="Skimage logo" width="50"/> <br><img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" alt="Atom logo" width="50"/> <img
 src="https://user-images.githubusercontent.com/2437911/62945705-2e111300-bdd7-11e9-8f82-cffa978d1071.png" alt="Gitkraken logo" width="50"/> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" alt="Inkscape logo" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux logo" width="50"/>
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" alt="Inkscape logo" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux logo" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50"/>
 </div>
