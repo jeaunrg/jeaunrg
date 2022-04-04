@@ -14,7 +14,7 @@
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML logo" width="50"/> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS logo" width="50"/> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width="50"/> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django logo" width="50"/>  <img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django logo" width="50"/>  <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap logo" width="50"/> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="Qt logo" width="50"/> <br><img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas logo" width="50"/> <img
